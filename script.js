@@ -1,8 +1,8 @@
-const daysContainer = document.querySelector(".days"),
-  nextBtn = document.querySelector(".next-btn"),
-  prevBtn = document.querySelector(".prev-btn"),
-  month = document.querySelector(".month"),
-  todayBtn = document.querySelector(".today-btn");
+ const daysContainer = document.querySelector(".days");
+ const nextBtn = document.querySelector(".next-btn");
+ const prevBtn = document.querySelector(".prev-btn");
+ const month = document.querySelector(".month");
+ const todayBtn = document.querySelector(".today-btn");
 
 const months = [
   "January",
