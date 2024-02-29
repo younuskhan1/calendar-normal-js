@@ -105,16 +105,3 @@ body {
 .days .day.prev {
   color: #ccc;
 }
-
-/* Credits */
-.credits a {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 14px;
-  color: #aaa;
-}
-.credits span {
-  color: var(--primary-color);
-}
